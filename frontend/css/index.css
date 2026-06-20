@@ -1,5 +1,6 @@
 h1{
    color: red;
+   text-align: center;
 }
 #heading2{
     color:blueviolet;
@@ -12,6 +13,9 @@ h1{
     border-color: black;
     border-style: solid;
     padding: 20px;
+    text-align: center;
+}
+.tit{
     text-align: center;
 }
 .navbar{

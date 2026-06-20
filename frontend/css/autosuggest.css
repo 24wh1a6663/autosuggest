@@ -1,0 +1,32 @@
+
+.gear{
+    position: fixed ;
+    top : 10px;
+    left : 20px;
+}
+.pill{
+    position: fixed;
+    top : 10px;
+    right : 20px;
+}
+.main-content{
+    text-align: center;
+}
+.rounded-edge
+{
+    border-radius: 20px;
+    padding-left: 22px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+   
+}
+.lens{
+      position: relative;
+     top:28px;
+      right: 85px;
+      
+}
+.colorr{
+    color: blue;
+}
